@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset, please cite it as below. Code is MIT-licensed; the
+  derived data layers are CC-BY-4.0 (see LICENSE and DATA-LICENSE.md — the
+  underlying Utah public records are not subject to this project's copyright).
+title: "civic-data: Utah government records, from city councils to the State"
+type: dataset
+authors:
+  - family-names: Welsh
+    given-names: Tyson
+repository-code: "https://github.com/tysonwelsh/civic-data"
+url: "https://municipalsky.com"
+license: CC-BY-4.0
+version: "2026-07-31"
+date-released: "2026-07-31"
+abstract: >-
+  A structured, quantifiable archive of Utah government records built for
+  housing, growth, and development research: 44 registered entities in a
+  4-tier model (31 cities/towns, 8 counties, 2 metropolitan planning
+  organizations, and the State of Utah), federated into one queryable SQLite
+  database with extracted roll-call votes, public comments, election results,
+  campaign finance, adopted ordinances, programmed regional projects,
+  population projections, rolling council rosters, and a full-text search
+  layer — with per-record provenance and measurement ceilings carried as
+  queryable caveats. Coverage and known limitations are documented per entity;
+  honest gaps are reported, never filled.
+keywords:
+  - Utah
+  - municipal government
+  - city council
+  - roll-call votes
+  - land use
+  - housing policy
+  - elections
+  - campaign finance
+  - civic data

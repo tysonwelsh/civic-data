@@ -83,6 +83,9 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   2026 pending minutes + ordinance back-catalog. (L2233–2709, L1907/1911/1987)
 - **Ogden referrals FP class** — two named CRAs sharing the generic 'Community Reinvestment
   Project Area' string. (L1801)
+- **2026-07-31: wire comment redaction into the builders** — `scripts/redact_comments.py`
+  currently runs as a documented post-step (GOTCHAS.md); folding it into the per-city
+  comment-clean scripts + weeks_lib would remove the re-run-after-rebuild footgun.
 - **2026-07-31: draper packet-text whitespace-bloat re-extraction** — one sidecar
   (`packets/text/2020-05-28_…att1624.txt`) is 110 MB holding only ~37k words (layout-mode
   padding); gitignored (over GitHub's limit). Re-extract that attachment with whitespace

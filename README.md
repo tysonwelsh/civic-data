@@ -259,3 +259,13 @@ with its own `CLAUDE.md`, `AVAILABILITY.md`, `index.csv`, retained `raw/`, and h
   `TODO_ARCHIVE.md`.
 - **`_audits/`** — repo-wide extraction & consistency audits; **`_backups/`** —
   pre-modification originals of every file touched during remediation.
+
+## License & citation
+
+**Code** (scripts, extractors, builders): [MIT](LICENSE). **Derived data layers**
+(schemas, normalized/extracted records, crosswalks, referral chains, rosters):
+[CC-BY-4.0](DATA-LICENSE.md) — the underlying Utah public records are not subject to this
+project's copyright, and third-party plans/GIS layers retain their own terms (see
+DATA-LICENSE.md). Cite via [`CITATION.cff`](CITATION.cff). How each layer was built and
+audited: [`METHODS.md`](METHODS.md). Personal-information policy (what is redacted and
+what ships verbatim, with a correction/takedown contact): [`PRIVACY.md`](PRIVACY.md).

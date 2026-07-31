@@ -58,6 +58,12 @@ survive every handoff. The cardinal rules themselves are in CLAUDE.md.
   evidence-cited, snippet-anchored) for the failed-motion both-lists-"aye" clerk-typo class —
   corrections go there, never in the minutes markdown.
 
+- **After any comment-layer rebuild (all_comments_clean.csv regeneration or weeks/
+  rebuild for a comment-bearing city), re-run `python3 scripts/redact_comments.py`**
+  (PRIVACY.md policy 2026-07-31: constructed comment layers ship email/phone-redacted;
+  verbatim minutes and campaign_finance/text are NEVER redacted). Idempotent; then
+  re-federate so gov.db's comment/fts_comment pick up the redacted text.
+
 ## Shell & SQL habits
 
 - **`sqlite3 <path>` CLI CREATES the file on open** — resolve a city's db via

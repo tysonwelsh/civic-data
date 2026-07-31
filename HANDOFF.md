@@ -48,12 +48,15 @@ magna rows in v_member_record_all carry `dissent-only`.
 `github.com/tysonwelsh/civic-data` (main, initial commit `e9872b9`, 59,468 files).**
 Owner residue: rotate the ANTHROPIC_API_KEY; enable secret scanning at public-flip.
 Commits are now the change record — wave-record prose in TODO.md is retired for good.
-Next: G3 (LICENSE/CITATION/METHODS/PRIVACY + the owner's two privacy decisions), G4 (doc-
-consistency pass — README county counts 24,346→27,269 etc.; CLAUDE.md 27,376→27,269;
-regenerate cities_db_SCHEMA.md), G5 (FTS: 935 excluded pmn_minutes), G6 (quickstart +
-gov.db.gz release asset), G7 (atomic build + lockfile + auto-gate), G8 (three wrong-value
-data fixes: mag_mpo inverted outcome, mis-dated-meetings class, weber 2019-07-30), G9
-(declare against SHIP_GATE.md → publish).
+G3 DONE 2026-07-31 (MIT code / CC-BY-4.0 data / comment emails+phones redacted — 635+248
+across 87 files, `scripts/redact_comments.py`, GOTCHAS re-run rule / CF text ships
+verbatim per PRIVACY.md). ⚠ Next federation must precede any G9 release asset so
+comment/fts_comment carry the redacted text.
+Next: G4 (doc-consistency pass — README county counts 24,346→27,269 etc.; CLAUDE.md
+27,376→27,269; regenerate cities_db_SCHEMA.md), G5 (FTS: 935 excluded pmn_minutes), G6
+(quickstart + gov.db.gz release asset), G7 (atomic build + lockfile + auto-gate), G8
+(three wrong-value data fixes: mag_mpo inverted outcome, mis-dated-meetings class, weber
+2019-07-30), G9 (declare against SHIP_GATE.md → publish).
 
 ## Session rules that changed today
 

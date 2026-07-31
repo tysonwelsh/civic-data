@@ -50,12 +50,17 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   cf-coverage/cf-honest-zero(slc)/cf-unstructured(draper)/cf-blocked-cycles(kearns) added;
   summit disposition caveat reworded. Federated (built 2026-07-31T14:30:48, integrity ok,
   FK 0, reconciliation exact) + `--federation` 44/44 in step; 0 built entities uncaveated.
-- [ ] **G3. LICENSE + CITATION.cff + METHODS.md + PRIVACY.md.** Code license (MIT/Apache-2.0)
-  + data license (CC-BY-4.0/CC0 with public-records + third-party-GIS carve-outs); Zenodo DOI
-  at first release; METHODS.md must disclose per-layer extraction method (SLC votes are
-  LLM-extracted; SLC comments via Claude Vision). Owner privacy decisions: comment
-  emails/phones (~186 lines) and `campaign_finance/text/` donor street addresses (lehi 98,
-  ogden 371 lines) — decide, document, apply consistently.
+- [x] **G3. LICENSE/CITATION/METHODS/PRIVACY — ✅ DONE 2026-07-31 (owner decisions:
+  MIT code / CC-BY-4.0 data / strip comment emails+phones / ship CF text verbatim).**
+  Shipped: LICENSE (MIT) + DATA-LICENSE.md (CC-BY-4.0 with public-records + third-party
+  carve-outs) + CITATION.cff (type: dataset, v2026-07-31) + METHODS.md (per-layer
+  extraction table incl. the LLM/Vision disclosures + audit regime) + PRIVACY.md (verbatim
+  docs as published; constructed comment layers contact-redacted; takedown contact) +
+  README "License & citation" section. Redaction executed: `scripts/redact_comments.py`
+  (new, idempotent) removed 635 emails + 248 phones across 87 files (canonical CSVs + slc
+  JSON + weeks copies); re-run rule added to GOTCHAS.md; builder-integration lead in
+  LEADS.md. NOTE: gov.db's comment/fts_comment pick up the redacted text at the next
+  federation (G5/G8 rebuild — before any G9 release asset is cut). Zenodo DOI mints at G9.
 - [ ] **G4. Doc-consistency pass.** README headline table (county 24,346→27,269 motions,
   35,318→38,597 votes; projections row misaligned); CLAUDE.md (27,376/39,237/77,507 →
   27,269/38,597/77,400; "County motions have NULL disposition" is false — state per entity;

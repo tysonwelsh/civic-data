@@ -52,11 +52,14 @@ G3 DONE 2026-07-31 (MIT code / CC-BY-4.0 data / comment emails+phones redacted �
 across 87 files, `scripts/redact_comments.py`, GOTCHAS re-run rule / CF text ships
 verbatim per PRIVACY.md). ⚠ Next federation must precede any G9 release asset so
 comment/fts_comment carry the redacted text.
-Next: G4 (doc-consistency pass — README county counts 24,346→27,269 etc.; CLAUDE.md
-27,376→27,269; regenerate cities_db_SCHEMA.md), G5 (FTS: 935 excluded pmn_minutes), G6
-(quickstart + gov.db.gz release asset), G7 (atomic build + lockfile + auto-gate), G8
-(three wrong-value data fixes: mag_mpo inverted outcome, mis-dated-meetings class, weber
-2019-07-30), G9 (declare against SHIP_GATE.md → publish).
+G4 DONE 2026-07-31 (README/CLAUDE.md reconciled to the live db; schema doc regenerated as
+`gov_db_SCHEMA.md`; 5 closed plans → docs/history/; NEW `scripts/check_doc_numbers.py`
+asserts 13 headline numbers docs-vs-db — SHIP_GATE P3 now runnable and PASSING 13/13).
+Next: G5 (FTS: 935 excluded pmn_minutes + statute floor), G6 (quickstart + gov.db.gz
+release asset), G7 (atomic build + lockfile + auto-gate), G8 (three wrong-value data
+fixes: mag_mpo inverted outcome, mis-dated-meetings class, weber 2019-07-30), G9 (declare
+against SHIP_GATE.md → publish). Run check_doc_numbers.py after every federation — G5/G8
+rebuilds change fts/caveat counts, and the checker will name the doc lines to update.
 
 ## Session rules that changed today
 

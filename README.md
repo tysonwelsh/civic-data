@@ -3,7 +3,9 @@
 A structured, quantifiable archive of Utah government records built for **housing,
 growth, and development research** — so a question answered in one place can be asked
 across every level of government, with honest coverage caveats respected. It spans
-**42 registered entities in a 4-tier model**:
+**44 registered entities in a 4-tier model** (41 built; `udot`, `uta`, and
+`wasatch_county` are registered-only reference entities carrying relationship edges —
+they have no directories yet):
 
 - **31 cities and towns** — council + planning-commission minutes, extracted roll-call
   votes, public comments, municipal election results, campaign finance, rolling council
@@ -38,19 +40,22 @@ is documented in its own `CLAUDE.md` — read it before analyzing that entity.
 `gov_level` columns, plus the cross-entity normalization, search, and roster layers. It
 was **renamed from `cities.db` on 2026-07-20** as the repo outgrew cities; a `cities.db`
 symlink remains for back-compat, and the builder is still
-`python3 scripts/build_cities_db.py`. Read [`cities_db_SCHEMA.md`](cities_db_SCHEMA.md)
+`python3 scripts/build_cities_db.py`. Read [`gov_db_SCHEMA.md`](gov_db_SCHEMA.md)
 first.
 
 Headline federated totals (measured, not estimated):
 
 | Layer | city | county | regional | state | notes |
 |---|---:|---:|---:|---:|---|
-| **motions** | 49,172 | 24,346 | 958 | 1,208 | `motion` table |
-| **member-votes** | 181,119 | 35,318 | 0 | 27,887 | `vote`; regional minutes are tally-only, so MPOs record no member-votes |
+| **motions** | 49,172 | 27,269 | 959 | 1,208 | `motion` table |
+| **member-votes** | 181,119 | 38,597 | 0 | 27,887 | `vote`; regional minutes are tally-only, so MPOs record no member-votes |
 | **elections** | | | | | `election_race` 680 (authoritative winners/margins) + `election_result` 5,482 (SLCo SOVC tallies) |
 | **regional projects** | | | 5,717 | | `regional_project` — WFRC + MAG programmed TIP/RTP projects |
-| **projections** | 980 | | 9,832 | 140 | `projection` — county / annual city-area regional / state grains |
+| **projections** | | 980 | 9,832 | 140 | `projection` — county / annual city-area regional / state grains |
 | **searchable minutes** | | | | | `fts_minutes` — 13,886 documents across 40 entities |
+
+*(counts as of the gov.db build of 2026-07-31; re-verify any headline number with
+`python3 scripts/check_doc_numbers.py`, which compares these docs against the live db)*
 
 The State layer adds a **264-bill land-use/housing subset (2015–2026)** with 1,208 named
 roll calls and 27,887 legislator votes (**a disjoint person population** — never
@@ -114,8 +119,9 @@ Each non-city entity lives in its own top-level directory and is documented by i
 - **`salt_lake_county/`** — the first county and reference build: County Council (9) +
   elected Mayor, agencies, PC votes/minutes, adopted ordinances, a development pipeline,
   the canonical SOVC election canvass, plans, projections, and a GIS catalog.
-- **`utah_county/`** — Board of Commissioners (3), full tier; named roll calls exist
-  2015–16 then an OCR tally-only era 2017+ (the inverse of most cities).
+- **`utah_county/`** — Board of Commissioners (3), full tier; named full rolls
+  2015–2019, tally-primary 2020+ with dissent nameable throughout (extractor repair
+  2026-07-25; honest residual ceilings carried as caveat rows).
 - **`weber_county/`** — Commissioners (3); named-primary minutes (99.6% named rolls
   2015+, depth to 2000) — richer than SLCo.
 - **`cache_county/`** — County Council (7) + non-voting Executive; full named rolls
@@ -201,10 +207,10 @@ behavior. Comparisons that ignore them will mislead. **Honest gaps are data** �
 reported, never filled.
 
 - **Public comments are substantive in only 2 of 31 cities**: SLC (13,334, 2020–2026,
-  one of the few Utah cities publishing written comments) and Park City (459). Five have
-  small slivers (St George 136, Orem 95, Provo 81, Lehi 42, West Jordan 28). **The other
-  24 are honest zeros or pending harvests** documented in each city's
-  `public_comments/AVAILABILITY.md`. Do not compare "public engagement" across cities on
+  one of the few Utah cities publishing written comments) and Park City (459). Six have
+  small slivers (St George 136, Orem 95, Provo 81, Lehi 42, West Jordan 28, Millcreek 27
+  in-packets). **The other 23 are honest zeros or submit-only records** documented in
+  each city's `public_comments/AVAILABILITY.md`. Do not compare "public engagement" across cities on
   this data.
 - **Vote-attribution ceilings differ everywhere.** Nephi is ~80% tally-only; Orem
   records Aye/Nay only (no absences/abstentions); West Jordan's PC names only dissenters;
@@ -233,7 +239,8 @@ packets + staff reports), `housing_plans/` (moderate-income housing + general pl
 `ordinances/` (zoning/land-use ordinance index), `pmn_backfill/` (Utah Public Notice
 cross-check + recovered meetings), `transcripts/` (meeting-video transcripts),
 `campaign_finance/` (candidate disclosures joined to election results — a structured
-dollar layer in 15 cities), and a primary-document text layer. Each is self-contained
+dollar layer in 29 of 31 cities; SLC is portal-blocked and Draper unstructured, both
+caveat-carried in the db), and a primary-document text layer. Each is self-contained
 with its own `CLAUDE.md`, `AVAILABILITY.md`, `index.csv`, retained `raw/`, and honest
 `unrecovered.csv`. The 2026-07 city wave and the counties are queued for expansion (see
 `TODO.md`).
@@ -249,7 +256,10 @@ with its own `CLAUDE.md`, `AVAILABILITY.md`, `index.csv`, retained `raw/`, and h
   `scripts/cities.py` is a `level=='city'` back-compat shim). Regenerate the map with
   `python3 scripts/build_hierarchy.py` → `registry/HIERARCHY.md`.
 - **`scripts/validate_entity.py <slug|dir>`** — entity-aware conformance checker
-  (delegates cities to `scripts/validate_city.py`; validation, never mutation).
+  (delegates cities to `scripts/validate_city.py`). Note: for cities it regenerates two
+  per-city validation artifacts as a side effect (`votes/_validation_report.txt` and the
+  votes-derived `meeting_minutes/roster.csv`) — deterministic content, but expect mtime
+  changes/a dirty git tree after running it.
 - **`scripts/build_coverage.py`** → **`coverage.json`** — measured per-entity × dataset
   manifest (records, date ranges, method, caveats).
 - **`scripts/build_cities_db.py`** → **`gov.db`** — rebuilds the federated database.

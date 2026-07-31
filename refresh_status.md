@@ -1,5 +1,8 @@
 # Refresh status — 31-city portal probe dashboard
 
+> **⚠ SNAPSHOT of the 2026-07-19 Q3 refresh** — regenerated at each quarterly refresh
+> (next: early Oct 2026); do not read as current portal state.
+
 Generated 2026-07-19 by `scripts/refresh_status.py`. Probe data comes from each
 city's `fetch_new.py --probe` run (stored in `<city>_city_council/refresh_probe.json`);
 index max dates are measured live from the dataset files.

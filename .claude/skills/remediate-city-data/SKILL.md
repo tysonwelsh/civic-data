@@ -7,7 +7,7 @@ description: Execute repairs on civic-data city repos from an audit report or de
 
 Executes repairs in `<city>_city_council/` repos under /Users/tysonwelsh/civic-data.
 Input: an `_audits/<date>/report.md`, a defect list, or TODO.md items. This skill
-encodes the discipline proven in the 2026-07-02 remediation (`REMEDIATION_PLAN.md` —
+encodes the discipline proven in the 2026-07-02 remediation (`docs/history/REMEDIATION_PLAN.md` —
 read it as the worked example; every pattern below has a receipt there).
 
 ## Setup

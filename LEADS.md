@@ -12,7 +12,7 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 - **State-tier reintegration on its own terms** — owner-gated design task; tracked in TODO.md
   [GATED]. (L998)
 - **WFRC-native holistic package, Phases 2–5** — plans capture + TIP funding parse,
-  grant/cert/position tables, packets, MAG parity. Spec: WFRC_NATIVE_SPEC.md. (L1434)
+  grant/cert/position tables, packets, MAG parity. Spec: docs/history/WFRC_NATIVE_SPEC.md. (L1434)
 - **County content menu** (no county has enrichment modules yet): RDA/CRA project-area plans +
   tax-increment financials; interlocal & development agreements; legislative matter catalog;
   county campaign finance; CIP/impact-fee plans; building permits/housing starts. (L1492–1545)

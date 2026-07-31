@@ -61,18 +61,20 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   JSON + weeks copies); re-run rule added to GOTCHAS.md; builder-integration lead in
   LEADS.md. NOTE: gov.db's comment/fts_comment pick up the redacted text at the next
   federation (G5/G8 rebuild — before any G9 release asset is cut). Zenodo DOI mints at G9.
-- [ ] **G4. Doc-consistency pass.** README headline table (county 24,346→27,269 motions,
-  35,318→38,597 votes; projections row misaligned); CLAUDE.md (27,376/39,237/77,507 →
-  27,269/38,597/77,400; "County motions have NULL disposition" is false — state per entity;
-  fts ut_state 525→519; riverton 538→555; nephi ~58→51; the roster-layer and
-  county-disposition understatements); entity counts (44 registered / 41 built everywhere);
-  `cities_db_SCHEMA.md` describes the 2026-07-11 db — regenerate as gov_db_SCHEMA.md from
-  build_info, add the 6 missing tables; scope the `provenance='minutes'` advice to
-  `gov_level='city'` and document the non-city extractor vocabulary; stale `cities.db` strings
-  in script comments; fix or re-document validate_entity's read-only contract (it rewrites
-  roster.csv + _validation_report.txt); banner/move the six closed planning docs
-  (REFACTOR_PLAN, REMEDIATION_PLAN, PRIMARY_DOCS_*, WFRC_NATIVE_SPEC, sources_summary,
-  refresh_status). Permanent fix: generate headline counts from build_info at release time.
+- [x] **G4. Doc-consistency pass — ✅ DONE 2026-07-31.** README (headline table
+  27,269/38,597/959, projections row realigned, 44/41 entity split, utah_county bullet,
+  comments 6-sliver/23-zero recount, CF 29-of-31, validate_entity side-effect note);
+  CLAUDE.md (headline counts, entity split, disposition per-entity, provenance two-
+  vocabulary rewrite with the tier-safe filter, utah_county bullet rewritten post-repair,
+  roster line → all 31, riverton 555, nephi ~51, ut_state fts 519); schema doc REGENERATED
+  as `gov_db_SCHEMA.md` from the live db (all 34 tables incl. the 6 previously-missing,
+  path-prefix rule, corrected example queries — docs-not-mentions, donor_type 3.5% scope
+  note; `cities_db_SCHEMA.md` is now a pointer stub); false "Elections are not in
+  cities.db" caveat text + nephi ~58 fixed at source in build_cities_db.py (lands at next
+  federation); 5 closed planning docs → `docs/history/` (3 live references re-pointed);
+  sources_summary/refresh_status SNAPSHOT-bannered. Permanent gate:
+  **`scripts/check_doc_numbers.py`** (new) asserts 13 headline-number checks
+  docs-vs-gov.db — all PASS; wired into SHIP_GATE.md predicate 3.
 - [ ] **G5. Search-layer fixes.** `build_search_layer.py:642-644` doc_type filter excludes all
   935 text-bearing `pmn_minutes` docs from fts_minutes (provo 391, murray 80, vineyard 80,
   herriman 72, …) while docs promise full coverage; the 200-char floor silently drops 4 real

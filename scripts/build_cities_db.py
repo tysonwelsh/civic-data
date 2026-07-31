@@ -506,7 +506,7 @@ CAVEATS = [
     # --- named-vote / dissent recording limits (affect contested/member views)
     ("nephi", "meeting_minutes", "tally-only",
      "Nephi votes are mostly tally-only (~80% of rows carry no member name; only "
-     "~58 council motions name voters). Per-member and dissent analysis is limited "
+     "~51 council motions name voters). Per-member and dissent analysis is limited "
      "to the small named subset — dissent on unnamed motions is invisible here."),
     ("orem", "*", "vote-ceiling",
      "Orem records Aye/Nay only (council; PC adds Abstain) — absences and recusals "
@@ -931,7 +931,9 @@ CAVEATS = [
     ("*", "election_results", "elections-2019-floor",
      "Election results cover 2019-2025 everywhere except SLC (2007-2025). "
      "Longitudinal election analysis deeper than 2019 is SLC-only. "
-     "(Elections are not in cities.db — see each city's election_results/.)"),
+     "(Elections ARE federated — `election_race` is the audited winners/margins "
+     "layer, `election_result` the SLCo SOVC tallies; the per-city "
+     "election_results/ CSVs remain the on-disk source.)"),
 ]
 
 

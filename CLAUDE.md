@@ -1,7 +1,7 @@
 # civic-data — how to answer questions with this repo
 
-**44 registered Utah government entities in a 4-tier model** (42 built + the 2
-**registered-only** reference entities `udot`/`uta`) — **31 cities/towns**
+**44 registered Utah government entities in a 4-tier model** (41 built + the 3
+**registered-only** reference entities `udot`/`uta`/`wasatch_county`) — **31 cities/towns**
 (`<city>_city_council/`), **8 counties**, **2 metropolitan planning organizations
 (MPOs)**, and **the State of Utah** — all under one **entity model** (SCHEMA_SPEC §0):
 every government unit is a flat entity with a `level` (city / county / regional / state),
@@ -92,7 +92,10 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   motion CARRY). The two are ORTHOGONAL — compose at query time: `disposition='deny' AND
   outcome='Pass'` ⇒ the matter was denied. Ground-truth audited across all 31 cities
   (`_audits/2026-07-12-motion-classification/report.md`); corrections go in each city's
-  `db/disposition_overrides.csv`. County motions have NULL disposition (not yet computed).
+  `db/disposition_overrides.csv`. Disposition coverage beyond the cities: cache_county
+  (2,949) and mag_mpo (577) are classified; salt_lake_county, summit_county, utah_county,
+  weber_county, wfrc_mpo, and ut_state carry NULL on every motion (not yet computed —
+  the db's `disposition-coverage` caveat rides every non-city motion_std row).
 - **Thematic / keyword questions** ("every mention of accessory dwelling units",
   "density bonus discussions"): the **FTS5 layer in `gov.db`** — `fts_minutes`
   (full minutes text across cities + counties + MPOs, **13,886 docs** from 40 entities),
@@ -102,10 +105,10 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   the STATE land-use text corpora — the **Ombudsman advisory opinions** (309 catalogued /
   307 with text, `ut_state/advisory_opinions/` + `index.csv`) and the **LUDMA statute
   sections** (218 sections, `ut_state/statutes/text/` + `index.csv`) — read the per-file
-  text under `ut_state/`. **They ARE searchable** — `fts_minutes` carries 525 ut_state rows
-  (307 advisory opinions + 218 statute sections), so a keyword sweep can start there; the
-  per-file text remains the authority for full context. (Corrected 2026-07-26; this line
-  previously said they were not federated.)
+  text under `ut_state/`. **They ARE searchable** — `fts_minutes` carries 519 ut_state rows
+  (305 advisory opinions + 214 statute sections; 2 image-only AOs and 4 sub-200-char
+  statute sections are unindexed — indexing fix queued as PUBLISH GATE G5), so a keyword
+  sweep can start there; the per-file text remains the authority for full context.
 - **Regional (MPO) funding / programmed projects** ("what's in the TIP", "which projects
   got RTP money", "transit vs road spend by area"): the **`regional_project` table** in
   `gov.db` — 5,717 rows (wfrc_mpo 5,146 across 8 TIP vintages + RTP-2050; mag_mpo 571
@@ -140,8 +143,8 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   `has_text`/`text_path` for what's directly readable).
 - **Who represents an address**: `geo/address_to_district.py`.
 - **Who served when / current council / address→rep over time** (rolling roster — the
-  ORIGINAL 16 cities + bluffdale (2026-07-12); the rest of the 2026-07 new-city wave's
-  rosters are queued in TODO.md): the
+  ALL 31 city/town entities, 641 federated seat-tenure rows — completed 2026-07-13,
+  doc corrected 2026-07-31): the
   **`roster/` layer** — each city's `roster/council_terms.csv` (seat-tenure intervals,
   half-open `[start_date,end_date)`, per-row `confidence` + `sources`, `VACANT` gaps) +
   `district_versions.csv`/`district_precincts.csv` (redistricting-versioned boundaries,
@@ -169,11 +172,11 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
 
 - **Start with `gov.db`** (repo root; `cities.db` is a legacy symlink) for any
   cross-entity question: all built entities' standard tables unioned with `city` +
-  `gov_level` columns — **motions 49,172 city / 27,376 county / 959 regional / 1,208 state**;
-  **member-votes 181,119 city / 39,237 county / 0 regional / 27,887 state** (regional
+  `gov_level` columns — **motions 49,172 city / 27,269 county / 959 regional / 1,208 state**;
+  **member-votes 181,119 city / 38,597 county / 0 regional / 27,887 state** (regional
   minutes are tally-only, so the MPOs contribute projects + projections, not votes) —
   `motion_std` (the normalization layer — **now covers the CITY + COUNTY + REGIONAL
-  tiers, 77,507 rows joined to `motion` at 100%**: city 49,172 + county 27,376 +
+  tiers, 77,400 rows joined to `motion` at 100%**: city 49,172 + county 27,269 +
   regional 959, closing TODO High-priority item (j) on 2026-07-29). **The two paths are
   built differently and that is a real distinction:** city rows are read from the on-disk
   `motions_std.csv` files; counties and MPOs publish no such file (no uniform flat-motion
@@ -205,7 +208,7 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   layers are honest properties, not gaps to fill. Views: `v_contested_all`,
   `v_member_record_all`, `v_landuse_outcomes`, `v_pc_divergence` (excludes low-confidence
   referrals by design; since 2026-07-12 also covers legislative `Other` items — historic
-  districts, area/master plans), `v_coverage`. Read `cities_db_SCHEMA.md` first. DERIVED —
+  districts, area/master plans), `v_coverage`. Read `gov_db_SCHEMA.md` first. DERIVED —
   regenerate with `python3 scripts/build_cities_db.py` after any per-entity db rebuild;
   sandy's `legistar_*` extension tables live only in its own `db/sandy.db`.
 - **Never aggregate raw `result` or `motion_type` strings across cities.** Each city
@@ -219,23 +222,23 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   is ~80% tally-only; West Jordan PC names only dissenters/absentees. An absent
   Abstain/Recuse/Absent is a recording limit, not member behavior.
 - **Respect coverage asymmetries**: comments substantive only in SLC + Park City
-  (6 honest zeros, 5 slivers); elections 2019+ except SLC 2007+; SLC votes 2021+;
+  (23 honest zeros, 6 slivers incl. millcreek's in-packets 27); elections 2019+ except
+  SLC 2007+; SLC votes 2021+;
   Provo PC 2025+; Ogden RDA/MBA 2022–23 never acquired.
-- **Recovered vs audited votes:** rows recovered from independent sources carry a
-  **`provenance`** column — in the affected `all_votes.csv` (a documented trailing 14th
-  column) and `gov.db` `motion`: `minutes` = audited primary; recovered values are
-  `pmn_roa`/`pmn_minutes` (Utah Public Notice), `agendacenter_minutes` (SSL CivicPlus
-  ArchivedMinutes), `wayback_minutes` (holladay + cottonwood_heights Wayback),
-  `citysite_minutes` (west_jordan legacy city-site host, 2026-07-17),
-  `doccenter_draft`/`packet_carve` (ogden PC 2020–2023 gap recovery, 2026-07-19:
-  standalone CivicPlus DocumentCenter unofficial-draft minutes = `doccenter_draft` (525
-  motions), following-meeting agenda-packet carves = `packet_carve` (34) — approval
-  verified downstream but draft-sourced, so filterable apart from audited primary) —
-  2,846 recovered
-  motions after the 2026-07-19 ogden-PC recovery (SLC emits the column too since
-  2026-07-17). Filter audited-only with `provenance='minutes'` (or `IS NULL`-safe
-  equality per city); the old `LIKE 'pmn_%'` cut now misses the non-PMN recovery
-  channels.
+- **Recovered vs audited votes — the `provenance` column has TWO vocabularies by tier
+  (corrected 2026-07-31).** CITY tier: `minutes` = audited primary (46,240 motions);
+  recovered values (2,932 total) are `pmn_roa` 377 / `pmn_minutes` 1,193 (Utah Public
+  Notice), `agendacenter_minutes` 592 (SSL CivicPlus ArchivedMinutes), `wayback_minutes`
+  171 (holladay + cottonwood_heights), `citysite_minutes` 40 (west_jordan legacy host),
+  `doccenter_draft` 525 + `packet_carve` 34 (ogden PC draft-sourced recovery, approval
+  verified downstream). Filter city-tier audited-only with **`gov_level='city' AND
+  provenance='minutes'`**. ⚠ NON-CITY tier: the same column holds EXTRACTOR names
+  (tesseract, county_portal, legistar, poppler, citysite_ocr, le_utah_website,
+  magutah_site …), and cache_county reuses the strings `citysite_minutes` (1,405) and
+  `wayback_minutes` (201) with county-local meanings — a bare `provenance='minutes'`
+  filter silently drops ~84% of county motions. Never apply the city-tier filter
+  cross-tier; splitting recovery-channel from extractor into two columns is a queued
+  candidate fix.
 - Contested votes are the signal everywhere — `gov.db` `v_contested_all` now UNIONs
   **named** dissent (a Nay/Abstain/Recuse row) with **tally** dissent (a printed
   nay/other count with no roll call), splitting authoritative `tally_*` counts from
@@ -252,7 +255,7 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   duplicate pairs repaired 2026-07-02.
 - **logan** — council + RDA split from combined minutes; some tally-only blanks; PC has
   52 OCR files.
-- **nephi** — **mostly tally-only** (only ~58 council motions name voters — source
+- **nephi** — **mostly tally-only** (only ~51 council motions name voters — source
   limit, not extraction); PC footer-bleed FIXED 2026-07-19 (FOOTER_RE strip; 2 motions
   cleaned); sparse CRA folds into council minutes as `body=CRA` (PMN body 5737
   harvested 2026-07-19 — complete within floor, one 2023-12-19 honest gap).
@@ -312,7 +315,7 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   first-choice tallies — don't read winner_pct as a final margin); Granicus; the PC is
   the contested body (201 vs 15).
 - **riverton** — 5 districts + tie-break-only mayor; **PC names members only on divided
-  votes** (unanimous = tally-only, 538 rows); D3↔D4 renumbered at the 2022 redistricting
+  votes** (unanimous = tally-only, 555 rows); D3↔D4 renumbered at the 2022 redistricting
   — join on person, not district number.
 - **alta** — **Town of Alta (~380 pop), sparse by design** (~12 meetings/yr); 4 at-large
   + **VOTING mayor** (max tally 5); PC 100% tally-only; minutes via PMN; exclude "Alta
@@ -366,12 +369,12 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   County motions have NULL `disposition` (not yet computed).
 - **utah_county** — Board of Commissioners (3); FULL tier, 4 bodies incl. PC + Housing
   Authority; the source names voters **2015–2019** and is tally-primary **2020+**, with
-  dissent nameable throughout. ⚠ **The repo's vote layer does NOT yet reflect that**
-  (audit 2026-07-25): ~1,460 roll-call motions and ~4,000 member-vote rows are lost to two
-  extractor bugs, and the entity is **blind to every divided Board vote after 2018** — do
-  not read its post-2018 contested rate as real. The older "inverted era ceiling / tally-only
-  OCR era 2017+" framing was WRONG (2017 is 100% born-digital with 499 name blocks). Fix
-  queued in TODO.md; details in `utah_county/CLAUDE.md` + `_audits/2026-07-25/report.md`.
+  dissent nameable throughout. The two extractor bugs found by the 2026-07-25 audit were
+  **REPAIRED the same day** (motions 10,089→11,218, member-votes 2,765→4,705, contested
+  31→84 with named divided votes in every year 2019–2026; record:
+  `utah_county/db/REPAIR_2026-07-25.md`). Honest residual, caveat-carried in the db: 42 of
+  63 2020–24 parenthetical roll blocks remain uncaptured (OCR-fragmented) and several
+  2020+ persons are surname-only. Per-member analytics are fullest 2015–2019.
 - **weber_county** — Board of Commissioners (3); MID tier but **NAMED-primary minutes**
   (99.6% named rolls 2015+, depth to 2000 — richer than SLCo); land_use is FTS-only (PC
   consolidation seam 2025-12-03, Ord 2025-27).
@@ -409,7 +412,9 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
 
 - `python3 scripts/validate_entity.py <slug|dir>` — entity-aware conformance report
   (PASS/WARN/FAIL; delegates cities to `validate_city.py`, applies the right checks for
-  county / regional / state / db-less entities; never mutates). `validate_city.py` remains
+  county / regional / state / db-less entities; NOTE: city delegation regenerates two
+  per-city validation artifacts — `votes/_validation_report.txt` + the votes-derived
+  `meeting_minutes/roster.csv` — so expect mtime changes). `validate_city.py` remains
   the city-only validator it wraps.
 - `python3 scripts/build_hierarchy.py` — regenerates `registry/HIERARCHY.md` from
   `entities.csv` + `relationships.csv` (never hand-edit the map).

@@ -27,12 +27,16 @@ SELECT city, body, COUNT(*) n, SUM(vote='Aye') ayes FROM vote v JOIN motion m US
   GROUP BY 1,2 HAVING n>30 AND ayes=0;   -- every row needs a caveat on that dataset
 ```
 
-## Predicate 3 — no document asserts what the db contradicts
+## Predicate 3 — no document asserts what the db contradicts (runnable)
 
-The number-bearing claims in README.md and CLAUDE.md (headline table, per-entity quirk counts,
-coverage statements) re-verified against gov.db at the current build. Generate headline counts
-from `build_info` rather than hand-transcribing wherever possible. A closure that falsifies a
-doc claim updates the doc in the same session — this predicate is maintained, not re-earned.
+```
+python3 scripts/check_doc_numbers.py   # must exit 0 — asserts every headline number in
+                                       # README/CLAUDE.md/gov_db_SCHEMA.md against gov.db
+```
+
+Plus the standing rule: a closure that falsifies a doc claim updates the doc in the same
+session — this predicate is maintained, not re-earned. A doc rewrite that changes a checked
+claim's phrasing must update check_doc_numbers.py in the same session.
 
 ## Publication mechanics (one-time, tracked as TODO.md PUBLISH GATE G1–G9)
 
@@ -47,3 +51,4 @@ dictionary) → build hardening → the three wrong-value data fixes → declare
 |---|---|---|---|---|
 | 2026-07-31 (review) | PASS (44/44, ok, 0) | FAIL — 16 zero-caveat entities; 2 falsified caveats (utah_county, weber); 1 mis-filed (south_jordan); 1 stale (millcreek) | FAIL — README/CLAUDE.md county counts, disposition claim, cities_db_SCHEMA.md, entity counts | caveat fix in progress (G2); doc pass queued (G4) |
 | 2026-07-31 (post-G2) | PASS (44/44, ok, 0; build 14:30:48) | PASS — caveat 63→88; 0 built entities uncaveated; both falsified rows rewritten; SJ PC + magna dissent-only rows verified surfacing in v_member_record_all | FAIL — G4 doc pass pending | G1 (git) + G3–G8 remain |
+| 2026-07-31 (post-G4) | PASS | PASS | **PASS — check_doc_numbers.py 13/13** (README/CLAUDE/gov_db_SCHEMA reconciled; utah_county + provenance + disposition + roster claims corrected; schema doc regenerated) | G5–G8 remain, then declare |

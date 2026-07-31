@@ -1,5 +1,9 @@
 # Source & citation index — repo summary
 
+> **⚠ SNAPSHOT of 2026-07-06 — predates the county/MPO/state tiers (16-city era).**
+> Regenerate with `python3 scripts/build_sources_index.py --summary`. Per-record
+> provenance truth lives in each dataset's `sources.csv` / `index.csv`, not here.
+
 Generated 2026-07-06 by `scripts/build_sources_index.py --summary` from the per-city `sources.csv` files. Per-city detail: `<city>_city_council/SOURCES.md`.
 
 ## Provenance model

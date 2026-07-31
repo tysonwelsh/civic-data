@@ -323,7 +323,7 @@ Filings for municipal candidates, completing the **elections → members → vot
 
 ### 7. Primary-document TEXT layer (doc_class classifier over packets + GP text) — added 2026-07-16
 
-**Normative design + reference implementation: repo-root `PRIMARY_DOCS_PILOT_SPEC.md` +
+**Normative design + reference implementation: `docs/history/PRIMARY_DOCS_PILOT_SPEC.md` +
 `sandy_city_council/packets/` (classifier, pipeline, gates, acceptance test — READ BOTH
 FIRST).** Motivation: minutes *paraphrase* primary documents and can invert meaning (the
 Sandy Sharkey-memo incident — a dropped "Eliminate" reversed a reading). This source makes

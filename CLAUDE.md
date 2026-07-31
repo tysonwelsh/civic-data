@@ -98,17 +98,18 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   the db's `disposition-coverage` caveat rides every non-city motion_std row).
 - **Thematic / keyword questions** ("every mention of accessory dwelling units",
   "density bonus discussions"): the **FTS5 layer in `gov.db`** — `fts_minutes`
-  (full minutes text across cities + counties + MPOs, **13,886 docs** from 40 entities),
+  (full minutes text across cities + counties + MPOs, **14,713 docs** from 40 entities,
+  incl. 823 recovered-PMN texts since 2026-07-31),
   `fts_motion`, `fts_comment`, `fts_ordinance`, `fts_packet`.
   Query with `MATCH`, filter by the stored `city`/`date` columns, use `snippet()` for
   passages, then open the `path` for full context. Do NOT grep thousands of files. For
   the STATE land-use text corpora — the **Ombudsman advisory opinions** (309 catalogued /
   307 with text, `ut_state/advisory_opinions/` + `index.csv`) and the **LUDMA statute
   sections** (218 sections, `ut_state/statutes/text/` + `index.csv`) — read the per-file
-  text under `ut_state/`. **They ARE searchable** — `fts_minutes` carries 519 ut_state rows
-  (305 advisory opinions + 214 statute sections; 2 image-only AOs and 4 sub-200-char
-  statute sections are unindexed — indexing fix queued as PUBLISH GATE G5), so a keyword
-  sweep can start there; the per-file text remains the authority for full context.
+  text under `ut_state/`. **They ARE searchable** — `fts_minutes` carries 523 ut_state rows
+  (305 advisory opinions + 218 statute sections; only the 2 image-only AOs #142/#145
+  remain unindexed — no text exists), so a keyword sweep can start there; the per-file
+  text remains the authority for full context.
 - **Regional (MPO) funding / programmed projects** ("what's in the TIP", "which projects
   got RTP money", "transit vs road spend by area"): the **`regional_project` table** in
   `gov.db` — 5,717 rows (wfrc_mpo 5,146 across 8 TIP vintages + RTP-2050; mag_mpo 571

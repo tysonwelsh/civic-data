@@ -98,7 +98,7 @@ PLACEHOLDER_BODY = re.compile(
     r"|minutes file for this date/item is pending creation", re.I)
 
 
-def readable(abs_path):
+def readable(abs_path, min_body=200):
     """True only if the file carries real body text.
 
     2026-07-26 (audit S5): `has_text` used to mean "a text-shaped file exists", so 195
@@ -115,7 +115,10 @@ def readable(abs_path):
     body = t[m.end():] if m else t
     if PLACEHOLDER_BODY.search(body):
         return False
-    return len(body.strip()) >= 200
+    # min_body=200 guards stub/placeholder minutes; statutes get a lower floor
+    # (G5, 2026-07-31): a 140-char LUDMA section is real law, and the old flat
+    # 200 silently dropped 4 genuine sections from fts_minutes.
+    return len(body.strip()) >= min_body
 
 
 def text_sidecar(city_dir, dataset, path):
@@ -636,13 +639,27 @@ def load_roster(out):
 
 
 def build_fts(out):
-    # fts_minutes — full text of every minutes markdown file on disk that HAS text
+    # fts_minutes — full text of every minutes markdown file on disk that HAS text.
+    # G5 (2026-07-31): doc_type 'pmn_minutes' is now INDEXED — 935 text-bearing
+    # recovered-minutes docs (provo 391, murray 80, vineyard 80, herriman 72, …)
+    # were silently absent from the advertised keyword workflow. To avoid indexing
+    # the same MEETING twice, a pmn_minutes doc is skipped when an indexed 'minutes'
+    # doc exists for the same (city, date, body) — the promoted-copy case. Same-date
+    # docs with a DIFFERENT body label are both indexed (a council and a PC can meet
+    # the same evening); the `dataset` column keeps the pmn_backfill origin visible.
     n_files = 0
     n_skipped_empty = 0
-    for city, dataset, date, path in out.execute(
-            "SELECT city, dataset, date, path FROM document "
-            "WHERE doc_type IN ('minutes','plan','advisory_opinion','statute')"
-            ).fetchall():
+    n_pmn = 0
+    n_pmn_dup = 0
+    n_short_statute = 0
+    for city, dataset, date, path, text_path, body, doc_type in out.execute(
+            "SELECT city, dataset, date, path, text_path, body, doc_type "
+            "FROM document WHERE doc_type IN ('minutes','plan',"
+            "'advisory_opinion','statute','pmn_minutes')").fetchall():
+        # pmn_minutes rows catalog the raw PDF in `path`; the readable artifact
+        # is the extracted `text_path` sidecar — index that.
+        if doc_type == "pmn_minutes":
+            path = text_path
         if not path:
             # link-only catalog rows (e.g. a StoryMap-only general plan) have no
             # on-disk artifact to index — legitimate, not an error.
@@ -652,14 +669,27 @@ def build_fts(out):
             # form is a scanned/image PDF (e.g. an OCR-failed advisory opinion)
             # stays catalogued in `document` but out of FTS (binary junk guard).
             continue
+        if doc_type == "pmn_minutes":
+            twin = out.execute(
+                "SELECT 1 FROM document WHERE doc_type='minutes' AND city=? "
+                "AND date=? AND body=? LIMIT 1", (city, date, body)).fetchone()
+            if twin:
+                n_pmn_dup += 1
+                continue
         cdir = ENT_DIR[city]
         fp = os.path.join(ROOT, cdir, path)
         if not os.path.exists(fp):
             continue
-        if not readable(fp):
+        # statutes get a 40-char floor: short sections are legitimate law text
+        min_body = 40 if doc_type == "statute" else 200
+        if not readable(fp, min_body=min_body):
             # 2026-07-26 (audit S5): a front-matter-only stub or "[SCANNED … DEFERRED]"
             # placeholder has nothing to match on. Indexing it inflated the corpus figure
             # and made a keyword sweep look like it had covered the document.
+            if doc_type == "statute":
+                n_short_statute += 1
+                print(f"  fts_minutes: statute below even the 40-char floor, "
+                      f"SKIPPED (honest gap): {city}/{path}")
             n_skipped_empty += 1
             continue
         with open(fp, encoding="utf-8", errors="replace") as f:
@@ -667,6 +697,10 @@ def build_fts(out):
         out.execute("INSERT INTO fts_minutes (text,city,dataset,date,path) "
                     "VALUES (?,?,?,?,?)", (text, city, dataset, date, path))
         n_files += 1
+        if doc_type == "pmn_minutes":
+            n_pmn += 1
+    print(f"  fts_minutes: pmn_minutes indexed {n_pmn} "
+          f"(skipped {n_pmn_dup} same-(city,date,body) duplicates of indexed minutes)")
     # external-content indexes rebuild straight from their tables
     out.execute("INSERT INTO fts_motion(fts_motion) VALUES('rebuild')")
     out.execute("INSERT INTO fts_comment(fts_comment) VALUES('rebuild')")

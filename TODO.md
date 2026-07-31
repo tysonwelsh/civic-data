@@ -75,22 +75,31 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   sources_summary/refresh_status SNAPSHOT-bannered. Permanent gate:
   **`scripts/check_doc_numbers.py`** (new) asserts 13 headline-number checks
   docs-vs-gov.db — all PASS; wired into SHIP_GATE.md predicate 3.
-- [ ] **G5. Search-layer fixes.** `build_search_layer.py:642-644` doc_type filter excludes all
-  935 text-bearing `pmn_minutes` docs from fts_minutes (provo 391, murray 80, vineyard 80,
-  herriman 72, …) while docs promise full coverage; the 200-char floor silently drops 4 real
-  short LUDMA statute sections (emit skips to a gap ledger or lower the floor for statutes).
-- [ ] **G6. Consumer packaging.** README QUICKSTART (3 commands to first query; read-only
-  `file:gov.db?mode=ro` idiom); ship gov.db.gz (measured 3.75× → 399 MiB) as a GitHub
-  **Release asset, not LFS**; document the FTS/document path prefix rule
-  (`city||'_city_council/'` for cities, `city||'/'` otherwise); note `document.path` resolves
-  only in a full local build (34% point into gitignored raw/) — use text_path/source_url;
-  DATA_DICTIONARY.md from PRAGMA; one example notebook (doubles as doc regression test);
-  a few-MB gov-sample.db; add `build_status` to registry/entities.csv (udot/uta dirs don't
-  exist; registry walks break).
-- [ ] **G7. Build hardening (~20 lines).** build_cities_db.py: build to gov.db.tmp +
-  `os.replace()` (currently deletes gov.db then rebuilds in place); exclusive lockfile;
-  auto-run the federation-staleness gate at the end of every federation (good code, currently
-  never invoked automatically — the 3,000-motion silent-staleness combination).
+- [x] **G5. Search-layer fixes — ✅ DONE 2026-07-31.** `pmn_minutes` texts now indexed via
+  their `text_path` (823 indexed; 112 skipped as same-(city,date,body) duplicates of
+  promoted minutes — rule documented in gov_db_SCHEMA.md); statutes get a 40-char floor
+  (+4 LUDMA sections; sub-floor skips print as honest gaps). fts_minutes 13,886→**14,713**
+  (ut_state 519→523; only image-only AOs #142/#145 remain unindexed). Re-federated; the
+  build also picked up the G3 comment redaction (141 redacted rows live in `comment`) and
+  the G4 caveat-text corrections. check_doc_numbers named the 3 moved doc lines; all
+  reconciled, 13/13 PASS.
+- [x] **G6. Consumer packaging — ✅ DONE 2026-07-31 (release asset itself deferred to G9
+  so it isn't cut stale before G8's data fixes).** README QUICKSTART shipped (3 commands,
+  mode=ro idiom, FTS5 note); `examples/marquee_queries.py` (5 marquee questions, doubles
+  as doc regression test — all return results); `DATA_DICTIONARY.md` generated from
+  PRAGMA via new `scripts/build_data_dictionary.py` (35 tables + column glosses);
+  `gov-sample.db` (21.3 MB, vineyard + wfrc_mpo slice via new
+  `scripts/build_sample_db.py` — both tiers demonstrable, fts_minutes included);
+  `build_status` column added to registry/entities.csv (39 built / 2 built_dbless / 3
+  registered_only; hierarchy regenerated; 2 stale registry notes fixed — utah_county's
+  retracted framing, SSL's pre-recovery note). Path-prefix + document.path rules were
+  documented in gov_db_SCHEMA.md at G4.
+- [x] **G7. Build hardening — ✅ DONE 2026-07-31, proven on a live run.** build_cities_db.py
+  now: takes an exclusive `gov.db.lock` (refuses concurrent federations — the GOTCHAS rule
+  enforced in code), builds into `gov.db.tmp` and `os.replace()`s onto gov.db only after
+  the integrity gate passes (mid-build crash leaves the prior db intact), and auto-runs
+  `validate_entity.py --federation` at the end of every build (printed 44/44 in step on
+  the 15:58 run; nonzero exit propagates). Both temp paths gitignored since G1.
 - [ ] **G8. Wrong-value data fixes** (the only pre-publish data work):
   (a) **mag_mpo divided-tally loss** — 2015-11-05 "Motion failed with 10 yes and 12 no votes
   by [12 named mayors]" stored as `outcome='Pass'` (INVERTED); one divided motion missing

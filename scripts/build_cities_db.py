@@ -1604,10 +1604,35 @@ def read_csv_rows(path):
         return list(csv.DictReader(f))
 
 
+LOCK_PATH = os.path.join(ROOT, "gov.db.lock")
+TMP_DB = OUT_DB + ".tmp"
+
+
 def main():
-    if os.path.exists(OUT_DB):
-        os.remove(OUT_DB)
-    out = sqlite3.connect(OUT_DB)
+    """G7 hardening (2026-07-31): exclusive lockfile + atomic tmp-then-replace
+    build + the federation-staleness gate auto-run at the end. A mid-build crash
+    leaves the previous gov.db intact, and the GOTCHAS no-concurrent-federation
+    rule is enforced in code, not prose."""
+    try:
+        lock_fd = os.open(LOCK_PATH, os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+        os.write(lock_fd, ("%d\n" % os.getpid()).encode())
+    except FileExistsError:
+        log("FATAL: %s exists — another federation appears to be running (or a "
+            "prior one crashed; verify no build is live, then remove the "
+            "lockfile)." % LOCK_PATH)
+        sys.exit(1)
+    try:
+        _build_locked()
+    finally:
+        os.close(lock_fd)
+        if os.path.exists(LOCK_PATH):
+            os.unlink(LOCK_PATH)
+
+
+def _build_locked():
+    if os.path.exists(TMP_DB):
+        os.remove(TMP_DB)
+    out = sqlite3.connect(TMP_DB)
     out.execute("PRAGMA foreign_keys = ON")
     out.executescript(DDL)
 
@@ -1804,6 +1829,8 @@ def main():
     if fk or ic != "ok":
         sys.exit(1)
     out.close()
+    # atomic promote: only a fully-built, integrity-checked db replaces gov.db
+    os.replace(TMP_DB, OUT_DB)
     log("Done: %s (built %s)" % (OUT_DB, now))
 
     # Phase-2 search layer (REFACTOR_PLAN.md): comment/cf_*/ordinance/document
@@ -1817,6 +1844,19 @@ def main():
         os.remove(LEGACY_LINK)
     os.symlink(os.path.basename(OUT_DB), LEGACY_LINK)
     log("Legacy alias: cities.db -> gov.db (symlink refreshed)")
+
+    # G7 (2026-07-31): every build ends with the federation-staleness gate, so
+    # "gov.db matches every entity db" is proven on every run instead of only
+    # when a human remembers (the 3,000-motion silent-staleness incident).
+    import subprocess
+    gate = subprocess.run(
+        [sys.executable, os.path.join(ROOT, "scripts", "validate_entity.py"),
+         "--federation"], capture_output=True, text=True)
+    tail = "\n".join((gate.stdout or gate.stderr or "").strip().splitlines()[-2:])
+    log(tail)
+    if gate.returncode != 0:
+        log("FATAL: federation-staleness gate FAILED immediately after build.")
+        sys.exit(gate.returncode)
 
 
 if __name__ == "__main__":

@@ -34,6 +34,29 @@ projects and projections, not roll calls; a db-less county is elections and sear
 text, with its vote layer honestly deferred. What each entity does and does not contain
 is documented in its own `CLAUDE.md` — read it before analyzing that entity.
 
+## Quickstart
+
+```sh
+# 1. Get the database (pick one):
+#    (a) download gov.db.gz from the latest GitHub Release and gunzip it here, or
+#    (b) rebuild it from the committed per-entity dbs (~10 min, needs ~4 GB free):
+python3 scripts/build_cities_db.py
+
+# 2. Open it READ-ONLY (the sqlite3 CLI creates files on open — always use mode=ro):
+sqlite3 "file:gov.db?mode=ro"
+
+# 3. First query — every entity's minutes mentioning accessory dwelling units:
+#    SELECT city, COUNT(*) AS docs FROM fts_minutes
+#    WHERE fts_minutes MATCH '"accessory dwelling unit"'
+#    GROUP BY city ORDER BY docs DESC;
+```
+
+Then: `python3 examples/marquee_queries.py` runs the five marquee research questions
+end-to-end (it doubles as a doc regression test), `gov-sample.db` (committed, small) lets
+you try queries without the full database, and [`gov_db_SCHEMA.md`](gov_db_SCHEMA.md) +
+[`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) are the reference. Requires SQLite built with
+FTS5 (standard in Python's bundled sqlite3 since 3.9; some distro builds omit it).
+
 ## gov.db — the federated database
 
 **`gov.db`** (repo root) unions every built entity's standard tables with `city` +
@@ -52,7 +75,7 @@ Headline federated totals (measured, not estimated):
 | **elections** | | | | | `election_race` 680 (authoritative winners/margins) + `election_result` 5,482 (SLCo SOVC tallies) |
 | **regional projects** | | | 5,717 | | `regional_project` — WFRC + MAG programmed TIP/RTP projects |
 | **projections** | | 980 | 9,832 | 140 | `projection` — county / annual city-area regional / state grains |
-| **searchable minutes** | | | | | `fts_minutes` — 13,886 documents across 40 entities |
+| **searchable minutes** | | | | | `fts_minutes` — 14,713 documents across 40 entities (incl. 823 recovered-PMN texts) |
 
 *(counts as of the gov.db build of 2026-07-31; re-verify any headline number with
 `python3 scripts/check_doc_numbers.py`, which compares these docs against the live db)*

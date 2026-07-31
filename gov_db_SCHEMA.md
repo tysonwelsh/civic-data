@@ -96,10 +96,10 @@ join rates — the numeric source of truth).
 
 ## Search layer (FTS5)
 
-`fts_minutes` 13,886 docs (40 entities — incl. 519 ut_state rows: 305 advisory opinions +
-214 LUDMA statute sections) · `fts_motion` · `fts_comment` · `fts_ordinance` 7,550 ·
-`fts_packet` 13,725. Query with `MATCH`, filter the stored `city`/`date` columns, pull
-passages with `snippet()`.
+`fts_minutes` 14,713 docs (40 entities — incl. 823 recovered-PMN texts and 523 ut_state
+rows: 305 advisory opinions + 218 LUDMA statute sections) · `fts_motion` · `fts_comment` ·
+`fts_ordinance` 7,550 · `fts_packet` 13,725. Query with `MATCH`, filter the stored
+`city`/`date` columns, pull passages with `snippet()`.
 
 ⚠ **Path columns are ENTITY-relative, with a tier-dependent prefix.** To open a result's
 file from the repo root:
@@ -110,9 +110,11 @@ SELECT CASE WHEN gov_level='city' THEN city || '_city_council/' ELSE city || '/'
 --  using e.level='city'; document.text_path follows the same convention)
 ```
 
-Known indexing gaps (fix queued as PUBLISH GATE G5): 935 text-bearing recovered
-`pmn_minutes` documents and 4 sub-200-character statute sections are not yet in
-`fts_minutes`; 2 image-only advisory opinions have no text to index.
+Indexing rules (G5, 2026-07-31): recovered `pmn_minutes` texts ARE indexed (823), except
+112 skipped as same-(city,date,body) duplicates of already-indexed promoted minutes;
+statutes use a 40-char floor (short sections are real law) while other docs keep the
+200-char stub guard; the only remaining unindexed ut_state items are the 2 image-only
+advisory opinions (#142/#145 — no text exists).
 
 ## The `caveat` table (91 rows) — what it protects against
 
